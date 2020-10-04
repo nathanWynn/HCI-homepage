@@ -6,7 +6,7 @@
 
 Schools are having a hard time adapting to remote life. For younger kids, it's easy to get distracted, demotivated or depressed because of the lack of social interaction. Children rely on context cues and social interaction to succeed academically and socially. 
 
-Online multiplayer video games may provide a solution to the problems presented by our current work from home culture. >50% of gamers say that video games help them connect with friends, and ≈80% say that games provide [mental stimulation, relaxation, and stress relief] (####[1]). Rather than attempting to mimic the classroom environment,it may prove useful to change the education paradigm to something more suited to the students’ social and active learning needs. 
+Online multiplayer video games may provide a solution to the problems presented by our current work from home culture. >50% of gamers say that video games help them connect with friends, and ≈80% say that games provide [mental stimulation, relaxation, and stress relief] (#[1]). Rather than attempting to mimic the classroom environment,it may prove useful to change the education paradigm to something more suited to the students’ social and active learning needs. 
 
 There has been extensive research[2] into the utility of video games as an educational supplement (as well as many claims to its benefits and drawbacks), but using existing video game infrastructure to facilitate teaching in a social environment may strike a more healthy balance between education and socialization remotely. For example, Minecraft: Education Edition [3] uses a popular existing game (minecraft) to aid STEM teachers, rather than attempt to replace them.
 
