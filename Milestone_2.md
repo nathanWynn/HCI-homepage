@@ -21,7 +21,7 @@ A typical interaction starts when a student forms a goal (or is given a goal) to
 Although the learning process may seem simple on a conceptual level (encounter material -> learn material -> prove comprehension via test or presentation) , there can be gulfs of execution or evaluation from the student's perspective. Interacting with online learning management systems or virtual class environments can prove challenging for various reasons:
 
 - signifiers may be different between programs: the same desired goal may have entirely different courses of action to achieve it based on which platform the student is using.
-- Automated feecback may be inaccurate/irrelevant. Automatically graded math problems exhibit this behavior especially. A common greivance among students is when the system marks their answer as incorrect due to negligible formatting errors (ex. 1 + 2 vs. (1 + 2), -1 vs. - 1, 0.75 vs. .75 etc.), or the students (correct) derivation is formatted differently from the "correct" solution.
+- Automated feecback may be inaccurate/irrelevant. Automatically graded math problems exhibit this behavior especially. A common greivance among students is when the system marks their answer as incorrect due to negligible formatting errors (ex. `1 + 2` vs. `(1 + 2)`, `-1` vs. `- 1`, `0.75` vs. `.75` etc.), or the students (correct) derivation is formatted differently from the "correct" solution.
 - Because online learning systems often need to facilitate social discussion, each student must gague not only the current state of the system, but also the real-time changes to the system input from other students. One example  of this problem is accidentally replying to the wrong prompt because forum posts were updating in real time causing the student's screen to shift. Another example is simply not being able to follow the flow of the discussion because of the amount of students posting/replying on a forum.
 
 
@@ -214,13 +214,13 @@ Kreijns, K., Kirschner, P. A., & Jochems, W. (2003). Identifying the pitfalls fo
 
 #### [13]
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679141/
+García-Redondo, P., García, T., Areces, D., Núñez, J., & Rodríguez, C. (2019, July 11). Serious Games and Their Effect Improving Attention in Students with Learning Disabilities. Retrieved October 04, 2020, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6679141/
 
 
 
 #### [14]
 
-https://mdle.net/journal/A_Tsunami_of_Learners_Called_Generation_Z.pdf
+Rothman, D. (2020). A Tsunami of Learners Called Generation Z. Retrieved October 04, 2020, from https://mdle.net/journal/A_Tsunami_of_Learners_Called_Generation_Z.pdf
 
 
 
@@ -232,9 +232,7 @@ Jo Harris. (2014, February 24). A Brief Overview of 4 Learning Theories [Video]:
 
 #### [16]
 
-https://www.microsoft.com/en-us/garage/blog/2019/10/minecraft-now-more-autism-friendly-with-accessibility-features-built-by-garage-interns/
-
-
+Huang, M. (2019, October 29). Minecraft now more autism friendly with accessibility features built by Garage Interns. Retrieved October 04, 2020, from https://www.microsoft.com/en-us/garage/blog/2019/10/minecraft-now-more-autism-friendly-with-accessibility-features-built-by-garage-interns/
 
 #### [17]
 
