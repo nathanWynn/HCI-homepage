@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: Team Bitconnect Homepage
+description: Homepage for Team Bitconnect's term project in HCI.
+
+github:
+  homepage_url: README.md
+  milestone2_url: Milestone2.md
