@@ -122,11 +122,11 @@ Another way to measure success would be to have students use our solution, then 
 
 ## Credits
 
-- Nathan: A.1, C.1
-- Kathy
-- Christian
-- Alex
-- Mohammed
+- Nathan: [Introduce the Problem](#introduce-your-problem), [Proposed Solution](#propose-a-solution)
+- Kathy: [Describe Potential Guidelines and Solutions](#describe-potential-guidelines-and-solutions)
+- Christian: [Identify Potential Users](#identify-your-potential-users)
+- Alex: [How Will You Measure Success?](#how-will-you-measure-success)
+- Mohammed: [Describe Existing Solutions](#describe-existing-solutions)
 
 ## References
 
