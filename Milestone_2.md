@@ -36,11 +36,11 @@ The user population most affected by our problem of study are younger students. 
 
 ## References
 
-[1]: https://www.theesa.com/esa-research/2020-essential-facts-about-the-video-game-industry/
+[1]: 2020 Essential Facts About the Video Game Industry. (2020, July 28). Retrieved October 04, 2020, from https://www.theesa.com/esa-research/2020-essential-facts-about-the-video-game-industry/
 
-[2]: https://dera.ioe.ac.uk/5270/7/041529_Redacted.pdf 
+[2]: Mitchell, A., & Savill-Smith, C. (n.d.). The use of computer and video games for learning. Retrieved from https://dera.ioe.ac.uk/5270/7/041529_Redacted.pdf
 
-[3]: https://education.minecraft.net/ 
+[3]: Homepage: Minecraft: Education Edition. (2020, October 03). Retrieved October 04, 2020, from https://education.minecraft.net/
 
 [4]: Schunk, D. H. (1996). Learning theories. Printice Hall Inc., New Jersey, 53.
 
