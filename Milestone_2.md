@@ -12,9 +12,19 @@ Online multiplayer video games may provide a solution to the problems presented 
 
 There has been [extensive research](#2) [2] into the utility of video games as an educational supplement (as well as many claims to its benefits and drawbacks), but using existing video game infrastructure to facilitate teaching in a social environment may strike a more healthy balance between education and socialization remotely. For example, [Minecraft: Education Edition](#3) [3] uses a popular existing game (minecraft) to aid STEM teachers, rather than attempt to replace them.
 
+![img](https://lh5.googleusercontent.com/Afzi7800czbVQ4zI8OAco5Gi42M27V9h5pCadw0Ljdnw02pIW7asOR-OwJdOlQSztq7UJpbeAE--PoRBBiCqiDPvGZtcQIdgl4IXbAANXsqUNWhdrIxla1G8sbqCsp8iwqPkm1SE)
+
+*Figure 1: [The seven stages of action](#17) [17].*
+
+A typical interaction starts when a student forms a goal (or is given a goal) to learn about a concept, attend an online class, or present to others. That goal can be planned, guided, and constrained by an instructor or planned by the student him or herself. For instance, a student may be constrained to use a particular platform, or he or she can choose a platform amongst the available options. After planning and specifying, the student starts executing the goal which may involve passive/active learning or interacting with others. 
+
+Although the learning process may seem simple on a conceptual level (encounter material -> learn material -> prove comprehension via test or presentation) , there can be gulfs of execution or evaluation from the student's perspective. Interacting with online learning management systems or virtual class environments can prove challenging for various reasons:
+
+- signifiers may be different between programs: the same desired goal may have entirely different courses of action to achieve it based on which platform the student is using.
+- Automated feecback may be inaccurate/irrelevant. Automatically graded math problems exhibit this behavior especially. A common greivance among students is when the system marks their answer as incorrect due to negligible formatting errors (ex. 1 + 2 vs. (1 + 2), -1 vs. - 1, 0.75 vs. .75 etc.), or the students (correct) derivation is formatted differently from the "correct" solution.
+- Because online learning systems often need to facilitate social discussion, each student must gague not only the current state of the system, but also the real-time changes to the system input from other students. One example  of this problem is accidentally replying to the wrong prompt because forum posts were updating in real time causing the student's screen to shift. Another example is simply not being able to follow the flow of the discussion because of the amount of students posting/replying on a forum.
 
 
-**Still working on this section...**
 
 ### Identify your potential users.
 
@@ -223,4 +233,10 @@ Jo Harris. (2014, February 24). A Brief Overview of 4 Learning Theories [Video]:
 #### [16]
 
 https://www.microsoft.com/en-us/garage/blog/2019/10/minecraft-now-more-autism-friendly-with-accessibility-features-built-by-garage-interns/
+
+
+
+#### [17]
+
+Norman, D. A. (1988). The psychology of everyday things. Basic books.
 
