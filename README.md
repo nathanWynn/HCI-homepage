@@ -14,7 +14,7 @@ We propose a solution to virtual learning for younger students that **reduces** 
 - Kathy Kim
 - Christian Summerlin
 - Alex Mailloux
-- Mohammed Abdulrahman
+- Mohammed Aldosari
 
 
 
