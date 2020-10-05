@@ -15,7 +15,7 @@ We propose a solution to virtual learning for younger students that **reduces** 
 ## Group Members:
 
 - Nathan Wynn
-- Kathy Kim
+- Kathleen Kim
 - Christian Summerlin
 - Alex Mailloux
 - Mohammed Aldosari
