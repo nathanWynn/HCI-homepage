@@ -2,6 +2,14 @@
 
 #### [Home Page](README.md)
 
+### Table of Contents
+
+[Task/Problem Definition](#taskproblem-definition)
+
+[Analysis of Existing Solutions](#analysis-of-existing-solutions)
+
+[Proposed Solution](#proposed-solution)
+
 ## Task/Problem Definition
 
 ### Introduce your problem.
