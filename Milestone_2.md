@@ -2,6 +2,12 @@
 
 #### [Home Page](README.md)
 
+
+
+[![Summary Video](images/thumbnail.PNG)](https://youtu.be/Tq6Iu6NNII0)
+
+
+
 ### Table of Contents
 
 [Task/Problem Definition](#taskproblem-definition)
