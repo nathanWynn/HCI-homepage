@@ -1,10 +1,12 @@
 # Bitconnect Milestone 2
 
-#### [Home Page](README.md)
-
-
+#### 
 
 [![Summary Video](images/thumbnail.PNG)](https://youtu.be/Tq6Iu6NNII0)
+
+*Click on the above video to view our presentation!*
+
+
 
 
 
@@ -15,6 +17,8 @@
 [Analysis of Existing Solutions](#analysis-of-existing-solutions)
 
 [Proposed Solution](#proposed-solution)
+
+
 
 ## Task/Problem Definition
 
