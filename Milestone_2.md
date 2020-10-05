@@ -1,12 +1,8 @@
 # Bitconnect Milestone 2
 
-#### 
-
 [![Summary Video](images/thumbnail.PNG)](https://youtu.be/Tq6Iu6NNII0)
 
 *Click on the above video to view our presentation!*
-
-
 
 
 

@@ -1,4 +1,8 @@
-# Synopsis
+# Homepage
+
+
+
+## Synopsis
 
 Schools are having a hard time adapting to remote life. 
 
@@ -21,10 +25,3 @@ We propose a solution to virtual learning for younger students that **reduces** 
 ### Milestone Links:
 
 [Milestone 2](Milestone_2.md)
-
-
-
-### 
-
-
-
