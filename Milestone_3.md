@@ -1,5 +1,7 @@
 # Bitconnect Milestone 3
 
+[Video Link](https://youtu.be/QBj0sEqL0D4)
+
 ## A. User Experience Requirements
 
 ### 1.Decompose your proposed solution from Milestone 2 into related user stories. It is highly recommended that you organize your user stories into a hierarchy based on related activities and tasks.
