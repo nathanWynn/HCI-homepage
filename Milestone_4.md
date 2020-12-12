@@ -1,5 +1,7 @@
 # Bitconnect Milestone 4
 
+[Milestone 4 Video](https://youtu.be/tFj96u52GEI)
+
 ## Original Synopsis
 Schools are having a hard time adapting to remote life.
 
