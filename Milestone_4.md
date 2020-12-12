@@ -7,20 +7,20 @@ For younger kids, it’s easy to get distracted, demotivated or depressed becaus
 
 We propose a solution to virtual learning for younger students that **reduces** anxiety, **fosters** a social environment, and **engages** students in an interactive virtual environment by using existing, popular, moddable online video games as a **platform for education**.
 
-## Design Evolution
-
-
 ## User Stories
 
 ### As a student, I want to be able to add questions to a game so that my peers and I can play and answer these questions together. (Mohammed)
+[Interactive Questions Demo](https://youtu.be/4VNsJB1LpMA)
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F82BLFg473lRqjB1OHyP5UK%2FHCI-Final-Milestone%3Fnode-id%3D4%253A7" allowfullscreen></iframe><br/>
 For this user story, we decided to allow students to add questions next to the objects in the game, such as Minecraft, with no need to go to a dedicated questions page. This user story aligns with two themes of our proposed solution: reducing anxiety and engaging students in an interactive virtual environment. Students will be able to ask questions and view others’ questions with respect with questions in the game while being anonymous if they choose to. We believe that the design based on this user story will encourage students to ask questions because of the appealing new way of asking questions and because of the anonymization. For starters of this design, we show a message on how to add interactive questions to the game. If players get to know how to do it, they can click on a button in the message so that the message will not appear again. 
 
-### As a student, I want to be able to see my friends’ virtual avatars and interact with them/work together as opposed to just seeing their camera in a zoom call. (Mohammed)
+### As a student, I want to be able to choose or upload an avatar so that the game becomes engaging and I become anonymous if I choose to.  (Mohammed)
+[Avatar Creation Demo](https://youtu.be/iFHons6cbak)<br/>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F82BLFg473lRqjB1OHyP5UK%2FHCI-Final-Milestone%3Fnode-id%3D19%253A4" allowfullscreen></iframe><br/>
 For this user story, we decided to allow students to choose an avatar to play freely without being judged by others. They also can choose to add an avatar of their own which gives them more control on the interface. This user story also aligns with two themes of our proposed solution: reducing anxiety among students and engaging students in an interactive virtual environment. In this, we allow students to choose an avatar among three categories: human avatar, superhero avatar, and animal avatar. They also can choose an avatar of their choice by uploading an image of that avatar. While the design based on this user story increases anonymization, it is also engaging because students get to choose an avatar that represents them, their identity, or their interest.  
 
-### As a student, I want to be able to use a nickname so that I can play without being too shy. (Mohammed)
+### As a student, I want to be able to choose a nickname so that the game becomes engaging and I become anonymous if I choose to. (Mohammed)
+[Nickname Creation Demo](https://youtu.be/ug7eLRNZXCk)<br/>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F82BLFg473lRqjB1OHyP5UK%2FHCI-Final-Milestone%3Fnode-id%3D40%253A371" allowfullscreen></iframe><br/>
 For this user story, we decided to allow students to choose a nickname for themselves based on their responses to a set of questions, such as their favorite city or game. They also can use a nickname of their own which gives them more control on the interface. This user story aligns with two themes of our proposed solution: reduce anxiety and engaging students in an interactive virtual environment. The design increases anonymization while giving the students the ability to add their real name. It is also engaging because students get a chance to represent themselves, their identity, or their interests.
 
