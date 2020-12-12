@@ -1,7 +1,14 @@
 # Bitconnect Milestone 4
 
-## Demo videos
+## Original Synopsis
+Schools are having a hard time adapting to remote life.
 
+For younger kids, it’s easy to get distracted, demotivated or depressed because of the lack of social interaction. Children rely on context cues and social interaction to succeed academically and socially, and the existing virtual education ecosystem leaves many students at a disadvantage.
+
+We propose a solution to virtual learning for younger students that **reduces** anxiety, **fosters** a social environment, and **engages** students in an interactive virtual environment by using existing, popular, moddable online video games as a **platform for education**.
+
+## Design Evolution
+TODO
 
 ## User Stories
 
@@ -15,15 +22,16 @@ For this user story, we decided to allow students to choose an avatar to play fr
 For this user story, we decided to allow students to choose a nickname for themselves based on their responses to a set of questions, such as their favorite city or game. They also can use a nickname of their own which gives them more control on the interface. This user story aligns with two themes of our proposed solution: reduce anxiety and engaging students in an interactive virtual environment. The design increases anonymization while giving the students the ability to add their real name. It is also engaging because students get a chance to represent themselves, their identity, or their interests.
 
 ### As a student, I want to use gamified assignments to keep track of my progress and encourage me to improve my skills through the use of leaderboards, tournaments, and ranks/levels. (Kathy)
-[Scoreboard Demo](https://youtu.be/qb1myE2X4TU)
+[Scoreboard Demo](https://youtu.be/qb1myE2X4TU)<br/>
 This user story is critical to our prototype because leaderboards, rankings, and other progress report metrics provide a source of motivation for students to continue engaging with the software. By releasing interesting leaderboard metrics, students become more motivated to set achievable academic goals for themselves. In this way, these metrics provide flexibility to different learning styles and offer students both intrinsic (out-ranking other students) and extrinsic motivation (out-ranking personal best). The rankings also include an easy-to-use system which allows teachers to provide feedback and leave small encouraging comments. 
 
 ### As a student, I want to be able to see my friends’ virtual avatars and interact with them/work together as opposed to just seeing their camera in a zoom call. (Christian)
-[Group Game Demo](https://youtu.be/-bT0QTu1Sxk)
+[Group Game Demo](https://youtu.be/-bT0QTu1Sxk)<br/>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F82BLFg473lRqjB1OHyP5UK%2FHCI-Final-Milestone%3Fnode-id%3D5%253A2" allowfullscreen></iframe><br/>
 This user story applies to the multiplayer/group game prototype because it allows students to interact and play with each other while learning. Instead of simply seeing their classmates’ cameras while the teacher teaches, students are more excited and inclined to learn the material if they can do so with their classmates and their colorful, personalized avatars. It reduces the stress and anxiety that would come along with a multiplayer game that used students’ cameras instead. Because socialization is important for students, there is a chat feature which lets students interact with each other in-game as well.
 
 ### As a student, I want to use gamified assignments to keep track of my progress and encourage me to improve my skills through the use of leaderboards, tournaments, and ranks/levels. (Nathan)
-[Quests Demo](https://youtu.be/vg18KG-LfTE)
+[Quests Demo](https://youtu.be/vg18KG-LfTE)<br/>
 We decided to treat this user story as an epic and split it into multiple user stories. This prototype covers the quests/rank portion of the epic. Since our overall design revolves around the idea of education paradigms built into video games, it’s important to relate as much of the interface to common video game paradigms as possible. For this reason, we’ve organized what we would traditionally call quizzes or homeworks into “quests”. 
 
 These quests reside in the quest tracker on the right hand side of the screen. They are either distributed by the professor, or through various NPC characters in the game. They represent class assignments for various subjects, and upon completion, they award some amount of points. 
@@ -45,3 +53,10 @@ This is not an experiment. Blinding of any kind is not necessary, thus, informat
 We intend to collect four points of data; one from each of the tests, and two from the exit survey. From the pretest, we wish to gauge the incoming knowledge of the student users. From the exit test, we will gauge how much the student learned and how well they retained that knowledge over a week. From the exit survey, we will learn about the user’s enjoyment, and anything the users feel we could do to improve the program. We will analyze the difference between the pre- and post-tests to see how well the students learn from our program. From the user enjoyment data, we will see how fun the program is. And, from all the surveys, common suggestions or complaints will help us learn how to improve the program in general.
 
 Our program is specifically designed to be used during social distancing. The entire point of our program is for students to stay safe and have fun while learning. Thus, it is important for our research to be done as safely as possible. We will only interact with our focus group student users via the internet. Our pre-test, virtual course, post-test, and exit survey can and will all be administered over the internet.
+
+## Credits
+- Nathan: Prototypes, user stories, milestone website.
+- Christian: Prototypes, user stories, helping narrow down the amount of applicable user stories.
+- Alex: Testing Protocol, vetting prototypes and testing.
+- Kathy: Prototypes, user stories.
+- Mohammed: Multiple Prototypes.
