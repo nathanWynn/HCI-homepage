@@ -87,6 +87,7 @@ This work may contain copyrighted material, the use of which may not have specif
 Assets used:
 
 - Minecraft background: https://www.reddit.com/r/wallpapers/comments/17zk77/minecraft_tree_by_a_lake_render_done_by_me/?ref=share&ref_source=link 
+- Clipart: https://www.flaticon.com/ 
 
 Inspiration for some prototypes came from:
 - Anime Music Quiz (animemusicquiz.com)
@@ -97,4 +98,4 @@ Inspiration for some prototypes came from:
 - Christian: Prototypes, user stories, helping narrow down the amount of applicable user stories.
 - Alex: Testing Protocol, vetting prototypes and testing.
 - Kathy: Prototypes, user stories.
-- Mohammed: Multiple Prototypes.
+- Mohammed: Multiple Prototypes, user stories.
