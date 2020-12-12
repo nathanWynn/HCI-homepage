@@ -53,14 +53,12 @@ All of our Teacher User Stories were dropped from use in the final prototype. Th
 ### Student User Stories
 #### As a student, I want to be able to browse games for each class so that I can join and play with my peers in that class at any time.
 Justification: This user story does not fit the general purpose of the program we plan to design. We intend it so that “games” are joined at scheduled class times, rather than at any time. Thus, we would have static groups for an entire class, or for preselected student groups within a class 
-#### As a student, I want to be able to enroll in my teacher's class as easily as possible
-Justification: Our design and prototype focuses more on the education gameplay itself, as well as student interaction within those games. Therefore, it can be assumed that enrollment takes place outside our current design area. 
 #### As a student, I want the virtual learning environment to be easy for me to learn how to use.
 Justification: We thought this user story was a bit too broad. We designed our prototypes in a way that is meant to be easy to use to begin with, so we felt that an entire user story dedicated to the concept was not needed. Most of our prototypes include either help text or instructions on completing the given task.
 #### As a student, I want to see and use common video game paradigms (inventory management, hotbar, common interaction keys, typical camera system, WASD movement, etc.) so that the learning curve for the interface is minimal.
 Justification: This implementation is unfit for a user story. User stories should describe some end goal and reasoning for a user, not the actual agency by which they achieve those goals. We decided to not use this user story, since movement systems and paradigms aren’t a goal of the user, but rather a tool that is given to the user to accomplish their goal.
 #### As a student, I want to be able to enroll in my teacher's class as easily as possible
-Justification: We felt as if this user story was outside of the scope of the prototypes we wanted to create. We wanted to focus on the actual parts of the virtual environment instead, such as avatar/nickname creation and the games, rather than the specific enrollment and class aspects.
+Justification: We felt as if this user story was outside of the scope of the prototypes we wanted to create. We wanted to focus on the actual parts of the virtual environment instead, such as avatar/nickname creation and the games, rather than the specific enrollment and class aspects. It can be assumed that enrollment takes place outside our current design area. 
 #### As a student, I want to be anonymous when I fall short while playing the game.
 This user story was a subset of the user story: “As a student, I want to be able to use a nickname so that I can play without being too shy.”, so we decided to remove it in favor of the more descriptive user story. Giving the student the option for a nickname seemed more appropriate rather than granting them full on anonymity.
 
